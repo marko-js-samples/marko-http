@@ -1,0 +1,27 @@
+{
+  "name": "marko-http",
+  "version": "1.0.0",
+  "description": "Example of using Marko with a simple Node.js HTTP server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marko-js-samples/marko-http.git"
+  },
+  "keywords": [
+    "marko",
+    "http",
+    "server"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marko-js-samples/marko-http/issues"
+  },
+  "homepage": "https://github.com/marko-js-samples/marko-http#readme",
+  "dependencies": {
+    "marko": "^4.2.8"
+  }
+}
